@@ -3,4 +3,5 @@
 ## PREREQUISITE
 - install ROS
 - install mavros
+## REMEMBER TO REMOVE .git BEFORE YOU PUBLISH YOUR OWN WORK!
 
