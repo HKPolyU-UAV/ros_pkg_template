@@ -1,0 +1,6 @@
+# ROS_PKG_TEMPLATE
+## AN EASY START FOR YOUR ROS_PKG!
+## PREREQUISITE
+- install ROS
+- install mavros
+
